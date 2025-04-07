@@ -1,3 +1,4 @@
+```json
 {
    "name": "Leander",
    "profession": [
