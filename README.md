@@ -1,7 +1,25 @@
-{<br>
-    "name": "Leander", <br>
-    "profession" : ["Software Engineer", "Server Administrator", "Network Technology"], <br>
-    "languages": ["German", "English", "Россия"], <br>
-    "coding_languages" : ["C", "Java", "JavaScript", "PHP"], <br>
-    "hobbies": ["Riding 🏍️", "Coding 💻", "Guitar ⚡🎸", "Gaming 🎮"] <br>
+{
+   "name": "Leander",
+   "profession": [
+      "Software Engineer",
+      "Server Administrator",
+      "Network Technology"
+   ],
+   "languages": [
+      "German",
+      "English",
+      "Россия"
+   ],
+   "coding_languages": [
+      "C",
+      "Java",
+      "JavaScript",
+      "PHP"
+   ],
+   "hobbies": [
+      "Riding 🏍️",
+      "Coding 💻",
+      "Guitar ⚡🎸",
+      "Gaming 🎮"
+   ]
 }
